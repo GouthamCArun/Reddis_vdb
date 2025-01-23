@@ -1,6 +1,4 @@
-Here is the text version of your README:
 
----
 
 # Redis Project
 
