@@ -14,7 +14,6 @@ Redis is an in-memory data store that can be used for caching, session managemen
 
 - **Redis**: A fast, in-memory database for key-value storage.
 - **Python**: Backend code to interact with Redis for setting and retrieving data.
-- **C# (Optional)**: Another backend option using StackExchange.Redis to interact with Redis.
 
 ## How the Project Works
 
